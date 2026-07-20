@@ -36,10 +36,10 @@ Each day I'll be tackling a new concept, mini-project, or exercise coming from t
 ```
 python-100-days-of-code/
 │
-├── day-001-topic-name/
+├── day-001/
 │   └── main.py
 │
-├── day-002-topic-name/
+├── day-002/
 │   └── main.py
 │
 ├── ...
@@ -54,11 +54,11 @@ Each day has its own folder containing:
 
 ## 📊 Progress Log
 
-| Day | Date | Topic | Notes |
-|-----|------|-------|-------|
-| 001 | | | |
-| 002 | | | |
-| 003 | | | |
+| Day | Date | Topic |
+|-----|------|-------|
+| 001 | | |
+| 002 | | |
+| 003 | | |
 
 > *This table will be updated daily as the challenge progresses. Click into each day's folder for the full code and notes.*
 
