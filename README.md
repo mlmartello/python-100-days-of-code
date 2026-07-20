@@ -85,7 +85,7 @@ cd python-100-days-of-code
 Navigate into any day's folder and run the script:
 
 ```bash
-cd Day-001-topic-name
+cd day-1
 python main.py
 ```
 
