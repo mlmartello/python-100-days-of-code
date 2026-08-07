@@ -37,10 +37,10 @@ Each day I'll be tackling a new concept, mini-project, or exercise coming from t
 python-100-days-of-code/
 │
 ├── day-1/
-│   └── main.py
+│   └── <project_name>.py
 │
 ├── day-2/
-│   └── main.py
+│   └── <project_name>.py
 │
 ├── ...
 │
