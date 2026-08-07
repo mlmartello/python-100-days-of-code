@@ -1,6 +1,5 @@
 # 🐍 100 Days of Python Code
 
-![Progress](https://img.shields.io/badge/Progress-Day%201%2F100-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
