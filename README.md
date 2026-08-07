@@ -53,11 +53,18 @@ Each day has its own folder containing:
 
 ## 📊 Progress Log
 
-| Day | Date | Topic |
+| Day | Date | Topic(s) |
 |-----|------|-------|
-| 001 | | |
+| 001 | 19/07 | Print, String Manipulation, Inputs, Variables, Variable Naming |
 | 002 | 20/07 | Data Types, Mathematical Operations, Number Manipulation |
 | 003 | 21/07 | If/Else, Modulo, Nesting and Elif, Multiple IFs, Logical Operators |
+| 004 | 22/07 | Random Module, Lists |
+| 005 | | |
+| 006 | | |
+| 007 | | |
+| 008 | | |
+| 009 | | |
+| 010 | | |
 
 > *This table will be updated daily as the challenge progresses. Click into each day's folder for the full code and notes.*
 
@@ -85,7 +92,7 @@ Navigate into any day's folder and run the script:
 
 ```bash
 cd day-1
-python main.py
+python <project_name>.py
 ```
 
 > 💡 Some days may require installing extra dependencies — check for a `requirements.txt` inside that day's folder.
