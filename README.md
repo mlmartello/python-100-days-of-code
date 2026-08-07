@@ -57,7 +57,7 @@ Each day has its own folder containing:
 |-----|------|-------|
 | 001 | | |
 | 002 | 20/07 | Data Types, Mathematical Operations, Number Manipulation |
-| 003 | | |
+| 003 | 21/07 | If/Else, Modulo, Nesting and Elif, Multiple IFs, Logical Operators |
 
 > *This table will be updated daily as the challenge progresses. Click into each day's folder for the full code and notes.*
 
