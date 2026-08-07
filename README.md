@@ -1,6 +1,5 @@
 # 🐍 100 Days of Python Code
 
-![Progress](https://img.shields.io/badge/Progress-Day%201%2F100-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
@@ -37,10 +36,10 @@ Each day I'll be tackling a new concept, mini-project, or exercise coming from t
 python-100-days-of-code/
 │
 ├── day-1/
-│   └── main.py
+│   └── <project_name>.py
 │
 ├── day-2/
-│   └── main.py
+│   └── <project_name>.py
 │
 ├── ...
 │
@@ -58,7 +57,7 @@ Each day has its own folder containing:
 |-----|------|-------|
 | 001 | | |
 | 002 | 20/07 | Data Types, Mathematical Operations, Number Manipulation |
-| 003 | | |
+| 003 | 21/07 | If/Else, Modulo, Nesting and Elif, Multiple IFs, Logical Operators |
 
 > *This table will be updated daily as the challenge progresses. Click into each day's folder for the full code and notes.*
 
