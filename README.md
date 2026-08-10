@@ -59,7 +59,7 @@ Each day has its own folder containing:
 | 002 | 20/07 | Data Types, Mathematical Operations, Number Manipulation |
 | 003 | 21/07 | If/Else, Modulo, Nesting and Elif, Multiple IFs, Logical Operators |
 | 004 | 22/07 | Random Module, Lists |
-| 005 | | |
+| 005 | 23/07 | For Loops, For Loops with Range | 
 | 006 | | |
 | 007 | | |
 | 008 | | |
@@ -72,7 +72,7 @@ Each day has its own folder containing:
 
 ## 🛠️ Tech & Tools
 
-- **Language:** Python 3.x
+- **Language:** Python 3.14.3
 - **Editor:** VS Code
 - **Version Control:** Git & GitHub
 - Additional libraries/frameworks will be added here as they come up (e.g. `pandas`, `flask`, `requests`, etc.)
