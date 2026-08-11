@@ -60,8 +60,8 @@ Each day has its own folder containing:
 | 003 | 21/07 | If/Else, Modulo, Nesting and Elif, Multiple IFs, Logical Operators |
 | 004 | 22/07 | Random Module, Lists |
 | 005 | 23/07 | For Loops, For Loops with Range | 
-| 006 | | |
-| 007 | | |
+| 006 | 24/07 | Functions |
+| 007 | 25/07 | Hangman Game Project |
 | 008 | | |
 | 009 | | |
 | 010 | | |
