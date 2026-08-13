@@ -62,7 +62,7 @@ Each day has its own folder containing:
 | 005 | 23/07 | For Loops, For Loops with Range | 
 | 006 | 24/07 | Functions |
 | 007 | 25/07 | Hangman Game Project |
-| 008 | | |
+| 008 | 26/07 | Functions with Inputs, Positional vs Keyword Arguments |
 | 009 | | |
 | 010 | | |
 
